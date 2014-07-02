@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<allowedProjectDependencies>
+    <projectDependencies>
+        <dependency key="title0">
+            <versionRange>versionRange0.0</versionRange>
+            <license id="Apache-2.0"/>
+        </dependency>
+        <dependency key="title1">
+            <versionRange>versionRange1.1</versionRange>
+            <license id="Bla-1.5"/>
+        </dependency>
+    </projectDependencies>
+</allowedProjectDependencies>
